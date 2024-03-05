@@ -1,8 +1,7 @@
 {
     "name": "Papan",
-    "prefix": "papan_",
     "type": "png",
-    "icon": "urgay",
+    "icon": "papan_urgay",
     "items": [
         "papan_boi",
         "papan_bro",
